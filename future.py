@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # 1. Load your daytime bike image
-image_path = 'img1.jpg'
+image_path = 'img1.jpeg'
 img = cv2.imread(image_path)
 
 if img is None:
