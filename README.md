@@ -3,6 +3,7 @@
 ## Past theme
 run `py past.py`
 output: 
+![img2past](https://github.com/user-attachments/assets/b14936fa-aa9b-4d4c-94b3-c02d07ef08b7)
 
 ## Future theme
 run `py future.py`
